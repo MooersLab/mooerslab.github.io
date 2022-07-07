@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# The Blaine Mooers Lab
-
 Located at the University of Oklahoma Health Sciences in Oklahoma City since 2006.
 
 This is the home page of the MooersLab site on GitHub. 
@@ -78,8 +75,6 @@ Left to right:  Cheidza Kanyumbu, Vicki Jones, Blaine Mooers, Shelly Gulati, Afz
 <p align="center"><img src="./images/MooersLab2018.JPG" alt="HTML5 Icon" style="width:500;height:125px;"></p>
 
 Left to right:  Blaine Mooers, Francis Acquah, Brittany Schnable, Shelly Gulati, Jakob Lynn, Afzal Shakir 
-
-
 
 
 ### Software
