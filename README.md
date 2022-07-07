@@ -18,3 +18,4 @@ The blog posts are in *_posts*.
 They must be written in markdown. 
 The filenames of the blog post files following a specified format.
 Many of the files require some yaml code at the top of the file or else they will not be read by Jekyll and converted into a html file correctly.
+There is a Guide to the markdown and other details of this webpage template under the Guide pull-down.
