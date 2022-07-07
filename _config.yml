@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Blaine Mooers"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Earned PhD in Biochemistry and Biophysics with Shing Ho at Oregon State Univeristy and did post-doc with Brian Matthews at the University of Oregon."
+  location         : "Oklahoma City, OK"
+  employer         : "University of Oklahoma Health Sciences Center, Department of Biochemistry and Molecular Biology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=blaine+mooers"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZReXIXoAAAAJ&"
-  email            :
+  email            : "blaine-mooers at ouhsc.edu"
   researchgate     : "https://www.researchgate.net/profile/Blaine-Mooers"
   uri              :
   bitbucket        :
