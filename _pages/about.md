@@ -1,3 +1,16 @@
+
+
+---
+permalink: /
+title: "The Blaine Mooers Lab"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # The Blaine Mooers Lab
 
 Located at the University of Oklahoma Health Sciences in Oklahoma City since 2006.
