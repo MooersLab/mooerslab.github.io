@@ -1,5 +1,3 @@
-
-
 ---
 permalink: /
 title: "The Blaine Mooers Lab"
