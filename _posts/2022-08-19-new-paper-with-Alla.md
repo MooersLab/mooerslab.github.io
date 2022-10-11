@@ -2,7 +2,7 @@
 layout: post
 title: "Paper published in `iScience`"
 date: 2022-08-19
-permalink: /posts/2022/07/05/new-paper/
+permalink: /posts/2022/08/19/new-paper/
 tags:
   - Francis Acquah
   - brain cancer
