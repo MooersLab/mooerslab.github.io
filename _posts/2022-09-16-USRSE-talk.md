@@ -10,4 +10,4 @@ tags:
 ---
 
 Mooers gives peer-reviewed talk at the United States Research Software Engineer Assocaition (US-RSE) Virtual Workshop 2022 on Sept. 16, 2922 about the ODSW:
-The title is ["The Virtual Oklahoma Data Science Workshop"](https://us-rse.org/virtual-workshop-2022/abstracts/#the-virtual-oklahoma-data-science-workshop). 
+The title was ["The Virtual Oklahoma Data Science Workshop"](https://us-rse.org/virtual-workshop-2022/abstracts/#the-virtual-oklahoma-data-science-workshop). 
