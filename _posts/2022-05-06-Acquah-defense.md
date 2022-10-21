@@ -10,4 +10,4 @@ tags:
 ---
 
 Francis Acquah defends his dissertation successfully!
-The title is "TARGETING RNA SUBSTRATES IN THE DISCOVERY OF INHIBITORS OF TRYPANOSOME MITOCHONDRIA RNA EDITING". 
+The title is "Targeting RNA s ubstrates in the discovery of inhibitors of trypanosome mitochontrial RNA editing". 
