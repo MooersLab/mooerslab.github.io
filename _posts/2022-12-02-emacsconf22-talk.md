@@ -13,4 +13,4 @@ On December 2, 2022, I gave a talk at emacsconf 2022 about editing live Juptyer 
 
 ***Please note that in December 2022 (after my talk) Overleaf changed the file format for the source text area. Select the `Source (legacy)'  tab to get the behavior demonstrated in the above video.*** 
 
-Many thank yous (👋 👋 👋 👋 👋 👋 👋) go to the organizers of this meeting for hosting another successful emacsconf!!! They did an enormous amount of work behind the sences.
+Many thank yous (:clap: :clap: :clap: :clap: :clap: :clap:) go to the organizers of this meeting for hosting another successful emacsconf!!! They did an enormous amount of work behind the sences.
