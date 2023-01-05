@@ -2,7 +2,7 @@
 layout: post
 title: "Script for easier multiple file transfer posted on GitHub"
 date: 2023-01-05
-permalink: /posts/2022/12/02/emacsconf22-talk
+permalink: /posts/2023/01/05/multipleFileTransfer
 tags:
   - multiple file transfer
   - scp
