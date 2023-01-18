@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Script for easier multiple file transfer posted on GitHub"
+title: "Track daily writing progress in 2023 in an Excel workbook"
 date: 2023-01-16
 permalink: /posts/2023/01/16/writingProgress2023
 tags:
