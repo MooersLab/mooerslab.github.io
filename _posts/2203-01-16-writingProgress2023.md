@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Track daily writing progress in 2023 in an Excel workbook"
+title: "Track daily writing progress by project in 2023 in an Excel workbook"
 date: 2023-01-16
 permalink: /posts/2023/01/16/writingProgress2023
 tags:
