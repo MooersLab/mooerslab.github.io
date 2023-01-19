@@ -21,7 +21,7 @@ Each months has its own graph.
 To get the cummulative progress for a project, you sum select the appropriate column and the sum will be reported.
 
 The entry of the progress per project requires only a few seconds.
-I have shared this Excel workbook and a Libre Office version on a GitHub repository called [workbook for 2023](https://github.com/MooersLab/writingProgess2023)
+I have shared this Excel workbook and a Libre Office version on a GitHub repository called [writingProgess2023](https://github.com/MooersLab/writingProgess2023)
 I included a webpage where you can paste text into a text area to get the word count.
 I also have updated the extensive README.md file.
 
