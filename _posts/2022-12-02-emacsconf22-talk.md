@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mooers gives talk at eamcsconf 2022 about editing live Juptyer Notebook Cells and Overleaf with Emacs"
+title: "Mooers gives talk at eamcsconf 2022 about editing live Jupyter Notebook Cells and Overleaf with Emacs"
 date: 2022-12-31
 permalink: /posts/2022/12/02/emacsconf22-talk
 tags:
