@@ -22,5 +22,5 @@ The Phenix software suite depends on cctbx but not vice vera.
 The Olex2 small molecule refinement package also depends on cctbx.
 In spite of several excellent tutorials on the cctbx website, many scientists find cctbx hard to penetrate.
 I developed a library of snippets to help ease the use of cctbx.
-This library was initially made available for use in [Jupyter and Colab](https://github.com/MooersLab/MooersLab/edit/main/README.md#cctbxsnips-for-notebooks), but it is now available at MooersLab on GitHub for the leading [text editors](https://github.com/MooersLab/MooersLab/edit/main/README.md#cctbxsnips-for-editors): VScode, Vim, NeoVim, Emacs, Sublime Text, and Atom.
+This library was initially made available for use in [Jupyter and Colab](https://github.com/MooersLab/MooersLab/blob/main/README.md#cctbxsnips-for-notebooks), but it is now available at MooersLab on GitHub for the leading [text editors](https://github.com/MooersLab/MooersLab/blob/main/README.md)#cctbxsnips-for-editors): VScode, Vim, NeoVim, Emacs, Sublime Text, and Atom.
 These editors can also use GhostText to edit Jupuyter and Colab notebooks and use th cctbxsnip library while doing so.
