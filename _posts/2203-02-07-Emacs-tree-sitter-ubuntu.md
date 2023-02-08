@@ -2,7 +2,7 @@
 layout: post
 title: "Emacs with tree-sitter support"
 date: 2023-02-07
-permalink: /posts/2023/02/07/Emacs/tree/sitter
+permalink: /posts/2023/02/07/Emacs/tree/sitter/ubuntu
 tags:
   - agile code editing
   - tree-sitter
