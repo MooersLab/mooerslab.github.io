@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Emacs with tree-sitter support"
-date: 2023-02-07
-permalink: /posts/2023/02/07/Emacs/tree/sitter/ubuntu
+date: 2023-02-08
+permalink: /posts/2023/02/08/Emacs/tree/sitter/ubuntu
 tags:
   - agile code editing
   - tree-sitter
@@ -12,7 +12,8 @@ tags:
 Tree-sitter is a C library that supports editing code with a concrete syntax tree.
 This syntax tree enables more powerful editing commands that save time and reduce tedium.
 Emacs and other leading text editors are still in the process of harnessing tree-sitter.
-However, Emacs must be compiled with tree-sitter already installed.
+However, Emacs must be compiled with the tree-sitter C librarty already installed.
 I provide a [protocol](https://github.com/MooersLab/emacs30ubuntu22/blob/main/README.md) for doing so on a fresh install of Ubuntu 22.04 LTS.
-I have no succeeded with yet with macOS.
-Many thanks go to Jeff Bowman for getting me started on compiling Emacs from source.
+I also succeeded with [macOS 13.2 (Ventura)](https://github.com/MooersLab/emacs30macos13treesitter/blob/main/README.md) after I figured out that I needed to specify the path to the giflib library.
+Many thanks go to Jeff Bowman for inspiring me to start compiling Emacs from source.
+Note that tree-sitter is available on Anaconda as `tree_sitter` (note the underscore) and can be installed whereever you have permission to stall conda packages, including some remote servers.
