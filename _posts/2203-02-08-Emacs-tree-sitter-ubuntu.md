@@ -9,7 +9,7 @@ tags:
   - Emacs
   - Ubuntu
 ---
-Tree-sitter is a C library that supports editing code with a concrete syntax tree.
+[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is a C library that supports editing code with a concrete syntax tree.
 This syntax tree enables more powerful editing commands that save time and reduce tedium.
 Emacs and other leading text editors are still in the process of harnessing tree-sitter.
 
