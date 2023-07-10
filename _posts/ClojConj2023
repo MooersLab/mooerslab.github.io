@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Protein structure comparison in Clojure"
+date: 2023-04-28
+permalink: /posts/2023/04/28/ClojConj2023
+tags:
+  - Clojure
+  - ClojConj
+  - probablistic programming
+  - protein structure comparison
+---
+I gave a [talk](https://www.youtube.com/watch?v=lDweOPGHLB8&t=51s) that is on YouTube about comparing protein structures in Clojure at ClojConj 2023 in Durham, NC on April 2023. I share this project with Daniel Slutsky, an organizer of the SciCloj community and leader of the JointProb group. He is a vital co-author. He provided a lot of help with the talk.<br />
+  
