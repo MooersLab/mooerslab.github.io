@@ -19,3 +19,12 @@ They must be written in markdown.
 The filenames of the blog post files following a specified format.
 Many of the files require some yaml code at the top of the file or else they will not be read by Jekyll and converted into a html file correctly.
 There is a Guide to the markdown and other details of this webpage template under the Guide pull-down.
+
+### Notes on editing the blog post files
+
+The blog posts are in separate markdown files.
+These files have to strictly adhere to the file format.
+The file name in the in the yaml header of the file has whitespaces replaced with forward slashes.
+These slashes are replaced with dashes in the final filename.
+The file name has to start with the date.
+The file extension has to be *.md*.
