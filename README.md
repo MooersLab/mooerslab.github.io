@@ -23,8 +23,10 @@ There is a Guide to the markdown and other details of this webpage template unde
 ### Notes on editing the blog post files
 
 The blog posts are in separate markdown files.
-These files have to strictly adhere to the file format.
-The file name in the in the yaml header of the file has whitespaces replaced with forward slashes.
-These slashes are replaced with dashes in the final filename.
-The file name has to start with the date.
-The file extension has to be *.md*.
+These files have to strictly adhere to the file format:
+
+- The file name in the in the yaml header of the file has whitespaces replaced with forward slashes. These slashes are replaced with dashes in the filename.
+- The file name has to start with the date.
+- The file extension has to be *.md*.
+
+The post will appear several minutes after the file is commited. The post will not appear if there is a problem with the format or filename.
