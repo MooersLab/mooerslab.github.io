@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/static/v1?label=mooerslab.github.io&message=0.3&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Repository for the Mooers Lab GitHub Page
 
 The webpage is accessed via [this link](https://mooerslab.github.io).
