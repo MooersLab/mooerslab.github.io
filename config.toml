@@ -1,0 +1,38 @@
+# Basic Configuration  
+baseURL = "https://mooerslab.github.io/"  
+languageCode = "en-us"  
+title = "Mooers Lab Blog Posts"  
+theme = "ananke"  # Replace with your theme name  
+
+# Author Information  
+[author]  
+  name = "Blaine Mooers"  
+
+# Menu Configuration  
+[menu]  
+  [[menu.main]]  
+    identifier = "home"  
+    name = "Home"  
+    url = "/"  
+    weight = 1  
+  [[menu.main]]  
+    identifier = "about"  
+    name = "About"  
+    url = "/about/"  
+    weight = 2  
+  [[menu.main]]  
+    identifier = "posts"  
+    name = "Posts"  
+    url = "/posts/"  
+    weight = 3  
+
+# Permalinks  
+[permalinks]  
+  posts = "/:year/:month/:title/"  
+
+# Theme Parameters  
+[params]  
+  description = "Research and insights from the Mooers Lab"  
+  mainSections = ["posts"]  
+  showReadingTime = true  
+  dateFormat = "April 19, 2025"  
